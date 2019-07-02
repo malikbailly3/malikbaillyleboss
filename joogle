@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Joogle</title>
+</head>
+
+<h1 style="text-align:center">
+
+<section id="contenue">
+
+  </div>
+  <div class="centre">
+    <img src="jooglelogo.png" alt="GOOGLE">
+    
+  </div>
+
+  <div class="centre">
+    <input type="text" name="Rechercher" value="">
+
+  </div>
+
+  <div class="centre">
+    <input type="submit" value="Recherche Joogle" />
+    <input type="submit" value="J'ai pas de chance" />
+
+  </div>
+<div class="centre">
+    <img src="imagegoogle.png" alt="GOOGLE">
+    
+  </div>
+
+</section>
